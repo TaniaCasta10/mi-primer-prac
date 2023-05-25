@@ -6,19 +6,19 @@
  #container{
     background-color:white;
     display: flex;
-    width:250vh ;
+    
 }
 
 #Verde{
     background-color:green;
-    width: 465px;
-    height: 90vh;
+    width: 526px;
+    height: 100vh;
 }
 
 #Blanco{
     background-color: white;
-    width: 465px;
-    height: 90vh;
+    width: 526px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,6 +29,6 @@
 
 #Rojo{
     background-color:red;
-    width: 465px;
-    height: 90vh;
+    width: 526px;
+    height: 100vh;
 }
